@@ -1,11 +1,11 @@
 {
-  "name": "lazy-load",
-  "version": "1.0.0",
-  "description": "",
+  "name": "load-me-lazy",
+  "version": "0.1.0",
+  "description": "small Library which allows you to load images on demand if the User scolls past a certain point.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Marco Reimann",
+  "license": "MIT"
 }
