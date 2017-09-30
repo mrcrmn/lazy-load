@@ -1,11 +1,23 @@
 {
   "name": "load-me-lazy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "small Library which allows you to load images on demand if the User scolls past a certain point.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcrmn/lazy-load.git"
+  },
+  "keywords": [
+    "lazy",
+    "load"
+  ],
   "author": "Marco Reimann",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcrmn/lazy-load/issues"
+  },
+  "homepage": "https://github.com/mrcrmn/lazy-load#readme"
 }
